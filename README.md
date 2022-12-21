@@ -1,6 +1,5 @@
 ### Hi there! I am Nuray👋
 
-![trophy](https://github-profile-trophy.vercel.app/?username=nuraybayrakdar)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuraybayrakdar&label=Profile%20views&color=0e75b6&style=flat" alt="nuraybayrakdar" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
